@@ -1,0 +1,7 @@
+name: use-tomorrow-units
+displayName: Use Tomorrow Units
+author: XenoTale
+description: Make use of New Horizon units.
+version: "1.0"
+minGameVersion: "135"
+dependencies: [ new-horizon ]
