@@ -1,0 +1,27 @@
+type: UnitFactory
+name: New Unit Factory
+description: New Unit Factory
+
+health: 99000
+size: 3
+itemCapacity: 30
+
+consumes: {}
+	
+plans: [
+	{ unit: new-horizon-striker      , time: 90, requirements: [] }
+	{ unit: new-horizon-naxos        , time: 90, requirements: [] }
+	{ unit: new-horizon-longinus     , time: 90, requirements: [] }
+	{ unit: new-horizon-destruction  , time: 90, requirements: [] }
+	{ unit: new-horizon-anvil        , time: 90, requirements: [] }
+	{ unit: new-horizon-hurricane    , time: 90, requirements: [] }
+	{ unit: new-horizon-collapser    , time: 90, requirements: [] }
+]
+
+requirements: []
+buildCostMultiplier: 0.1
+
+category: units
+research: duo
+
+alwaysUnlocked: true
