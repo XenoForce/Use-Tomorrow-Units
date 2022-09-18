@@ -10,12 +10,13 @@ consumes: {}
 	
 plans: [
 	{ unit: new-horizon-striker      , time: 90, requirements: [] }
-	{ unit: new-horizon-naxos        , time: 90, requirements: [] }
-	{ unit: new-horizon-longinus     , time: 90, requirements: [] }
+	{ unit: new-horizon-naxos        , time: 90, requirements: [] }    // werk.
+	{ unit: new-horizon-longinus     , time: 90, requirements: [] }    // werk.
 	{ unit: new-horizon-destruction  , time: 90, requirements: [] }
-	{ unit: new-horizon-anvil        , time: 90, requirements: [] }
+	{ unit: new-horizon-anvil        , time: 90, requirements: [] }    // werk.
 	{ unit: new-horizon-hurricane    , time: 90, requirements: [] }
 	{ unit: new-horizon-collapser    , time: 90, requirements: [] }
+	{ unit: new-horizon-declining    , time: 90, requirements: [] }
 ]
 
 requirements: []
